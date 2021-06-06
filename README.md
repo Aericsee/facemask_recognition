@@ -66,3 +66,6 @@ Run detect_mask_from_webcam.py from the same directory of your project folder in
 
 ## Results/Classification Report
 ![image](https://user-images.githubusercontent.com/59973333/120923200-deb07b00-c6ff-11eb-99c5-5087fc5d0d79.png)
+
+## Training Lost and Accuracy
+![image](https://user-images.githubusercontent.com/59973333/120923309-71511a00-c700-11eb-8ae9-390093117f26.png)
