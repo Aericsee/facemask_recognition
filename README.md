@@ -2,6 +2,9 @@
 An institute project which a facemask detection program is build
 
 ## Installation
+
+```bash
+## Run
 > STEP 1
 After unzipping the forked zip file of this project into your local machine, type the follwing command from the directory where you saved the project files in the command prompt: 
 pip install -r requirements.txt
@@ -59,3 +62,7 @@ Open Jupyter Notebook and run Data Augmentation and Preprocessing.ipynb in order
 
 > STEP 3
 Run detect_mask_from_webcam.py from the same directory of your project folder in the command prompt in order to test the detector in real- time using the webcam.
+```
+
+## Results/Classification Report
+![image](https://user-images.githubusercontent.com/59973333/120923200-deb07b00-c6ff-11eb-99c5-5087fc5d0d79.png)
