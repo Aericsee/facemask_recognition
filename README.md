@@ -61,7 +61,7 @@ urllib3==1.25.10
 Open Jupyter Notebook and run Data Augmentation and Preprocessing.ipynb in order to train your custom dataset within your loacl machine and preprocess the images meanwhile.
 
 > STEP 3
-Run detect_mask_from_webcam.py from the same directory of your project folder in the command prompt in order to test the detector in real- time using the webcam.
+Run detect_img_facemask.py from the src folder in the command prompt in order to test the detector in real-time using the test data images.
 ```
 
 ## Results/Classification Report
